@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @semihtiryaki
-- 👀 I’m interested in Python and Php
-- 🌱 I’m currently learning Python and Php
-- 💞️ I’m looking to collaborate on Php or Python
+- 👀 I’m interested in Php
+- 🌱 I’m currently learning Php
+- 💞️ I’m looking to collaborate on Php
 - 📫 How to reach me semihtiryakitk@gmail.com
 
 <!---
