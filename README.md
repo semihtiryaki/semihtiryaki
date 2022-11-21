@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @semihtiryaki
-- 👀 I’m interested in Php
-- 🌱 I’m currently learning Php
-- 💞️ I’m looking to collaborate on Php
+- 👀 I’m interested in and learning Unity
 - 📫 How to reach me semihtiryakitk@gmail.com
 
 <!---
